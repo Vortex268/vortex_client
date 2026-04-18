@@ -1,18 +1,3 @@
-// ==UserScript==
-// @name         Vortex Client — kour.io
-// @icon         https://cdn.discordapp.com/attachments/1492214960560930869/1495078579397071090/image.jpg?ex=69e4efee&is=69e39e6e&hm=18d719817f4006f3f8cd60bd57467cf8181055fd51ac4dc997e430dcd1f9a9a8&
-// @namespace    https://kour.io/
-// @version      1.0
-// @description  Premium QoL & visual enhancement client for kour.io. No cheats. Purely cosmetic & UX improvements.
-// @author       VortexDev
-// @match        *://kour.io/*
-// @match        *://www.kour.io/*
-// @grant        GM_setValue
-// @grant        GM_getValue
-// @grant        GM_addStyle
-// @run-at       document-idle
-// ==/UserScript==
-
 /* ============================================================
    VORTEX CLIENT v2.0.0
    A purely cosmetic & QoL enhancement layer for kour.io.
